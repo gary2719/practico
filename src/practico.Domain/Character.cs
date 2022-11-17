@@ -1,3 +1,4 @@
+namespace practico.Domain;
 // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
     public class Info
     {
