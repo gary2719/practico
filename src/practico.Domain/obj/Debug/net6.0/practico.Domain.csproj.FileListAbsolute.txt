@@ -1,0 +1,5 @@
+C:\Users\gtorresh\OneDrive - Banco Pichincha C.A\Escritorio\practico\src\practico.Domain\obj\Debug\net6.0\practico.Domain.csproj.AssemblyReference.cache
+C:\Users\gtorresh\OneDrive - Banco Pichincha C.A\Escritorio\practico\src\practico.Domain\obj\Debug\net6.0\practico.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtorresh\OneDrive - Banco Pichincha C.A\Escritorio\practico\src\practico.Domain\obj\Debug\net6.0\practico.Domain.AssemblyInfoInputs.cache
+C:\Users\gtorresh\OneDrive - Banco Pichincha C.A\Escritorio\practico\src\practico.Domain\obj\Debug\net6.0\practico.Domain.AssemblyInfo.cs
+C:\Users\gtorresh\OneDrive - Banco Pichincha C.A\Escritorio\practico\src\practico.Domain\obj\Debug\net6.0\practico.Domain.csproj.CoreCompileInputs.cache

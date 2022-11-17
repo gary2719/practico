@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "practico.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/practico.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/practico.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practico.Domain/1.0.0": {
+      "type": "project",
+      "path": "../practico.Domain/practico.Domain.csproj",
+      "msbuildProject": "../practico.Domain/practico.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "practico.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gtorresh\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\gtorresh\\OneDrive - Banco Pichincha C.A\\Escritorio\\practico\\src\\practico.Application\\practico.Application.csproj",
+      "projectName": "practico.Application",
+      "projectPath": "C:\\Users\\gtorresh\\OneDrive - Banco Pichincha C.A\\Escritorio\\practico\\src\\practico.Application\\practico.Application.csproj",
+      "packagesPath": "C:\\Users\\gtorresh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gtorresh\\OneDrive - Banco Pichincha C.A\\Escritorio\\practico\\src\\practico.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\gtorresh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\gtorresh\\OneDrive - Banco Pichincha C.A\\Escritorio\\practico\\src\\practico.Domain\\practico.Domain.csproj": {
+              "projectPath": "C:\\Users\\gtorresh\\OneDrive - Banco Pichincha C.A\\Escritorio\\practico\\src\\practico.Domain\\practico.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

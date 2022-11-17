@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NSRi0WIQ5rZC73Uz8pq8xfeZ+pB0/luSiTLVIOkAj+E6eO4Hk+bxcDOT8LiK0jXsHJDEb119kO62DEPK50zLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gtorresh\\OneDrive - Banco Pichincha C.A\\Escritorio\\practico\\src\\practico.HttpApi\\practico.HttpApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gtorresh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\gtorresh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gtorresh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\gtorresh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\gtorresh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\gtorresh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
