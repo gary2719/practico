@@ -3,7 +3,7 @@ namespace practico.Application;
 
 public class CharacterAppService : ICharacterRepository
 {
-    public ICollection<Root> MetodoGet()
+    public ICollection<Character> MetodoGet()
     {
         
 
